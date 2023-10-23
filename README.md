@@ -1,5 +1,4 @@
-[![HelloThere-TypingSVG](https://readme-typing-svg.herokuapp.com?font=Karla&weight=700&size=26&duration=4000&pause=4000&color=5D5D5D&background=FAFAFA00&center=false&vCenter=true&random=false&width=435&lines=Hey+there+%F0%9F%91%8B%2C+I'm+Lo%C3%AFc)](https://git.io/typing-svg)
-
+![HelloThere-TypingSVG](https://readme-typing-svg.herokuapp.com?font=Karla&weight=700&size=26&duration=4000&pause=4000&color=5D5D5D&background=00000000&center=false&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Lo%C3%AFc!+%F0%9F%91%8B)
 
 ### ⚡ In a nutshell
 
