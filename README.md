@@ -69,7 +69,18 @@ This is the place where I craft some stuff.
 
 
 <!-- 
-    Badges ressources: 
+    Badges:
         _ https://shields.io/
         _ https://simpleicons.org/
+
+    Examples:
+        _ https://zzetao.github.io/awesome-github-profile/
+        _ https://github.com/coderjojo/creative-profile-readme
+        _ https://github.com/abhisheknaiidu/awesome-github-profile-readme
+        _ https://github.com/rzashakeri/beautify-github-profile
+
+    Inspired by: 
+        _ https://github.com/DenverCoder1/DenverCoder1
+        _ https://github.com/thmsgbrt
+        _ https://github.com/Spiderpig86/Spiderpig86 (TODO: add resume)
 -->
