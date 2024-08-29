@@ -1,5 +1,7 @@
 ![HelloThere-TypingSVG](https://readme-typing-svg.herokuapp.com?font=Karla&weight=700&size=26&duration=4000&pause=4000&color=5D5D5D&background=00000000&center=false&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Lo%C3%AFc!+%F0%9F%91%8B)
 
+---
+
 ### ⚡ In a nutshell
 
 This is the place where I craft some stuff.
@@ -10,6 +12,31 @@ This is the place where I craft some stuff.
 * 📖  Read more about my projects in the public repositories below
 * ⚡  Fun fact: I ❤️Alaskan Malamute! 🐺
 
+---
+
+### 🌟 Explore My Work: Websites I've Developed
+
+Discover the projects I've been working on!
+
+#### 🚀 [CYCaaS: Clean Your Code as a Service](https://cycaas.com/)
+
+Enhance your codebase with services like code review, refactoring, and mentoring. I focus on the technical details, so you can stay focused on delivering value to your customers.
+
+👉 **Explore here**: [cycaas.com](https://cycaas.com/)
+
+#### 📝 [Blog CYCaaS: Insights & Tutorials](https://blog.cycaas.com/)
+
+A blog featuring technical articles and tutorials on software development topics, attached to the _CYCaaS_ website. Dive into content on best practices, tips, and in-depth guides. 
+
+👉 **Read more**: [blog.cycaas.com](https://blog.cycaas.com/)
+
+#### 🔄 [Call Logs Converter: PDF to CSV Made Easy](https://call-logs-converter.com/)
+
+A web tool designed to convert call log data from PDF to Excel (CSV) format. It provides a fast, secure, and user-friendly solution to organize and analyze call history.
+
+👉 **Try it out**: [call-logs-converter.com](https://call-logs-converter.com/)
+
+---
 
 ### 🚀 Some Tools I Use
 
