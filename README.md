@@ -51,6 +51,7 @@ A web tool designed to convert call log data from PDF to Excel (CSV) format. It 
 ### 🔎 Where to find me
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loic-favreliere/)
+[![LinkedIn](https://img.shields.io/badge/Malt-FC5757?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/loic-favreliere)
 [![Codementor](https://img.shields.io/badge/Codementor-003648?style=for-the-badge&logo=codementor&logoColor=white)](https://www.codementor.io/@lfavreli?refer=badge)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lfavreli)
 
